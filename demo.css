@@ -37,6 +37,14 @@
     padding-right: 0px;
 }
 
+#box-css-generator-demo,#borderbox-css-generator-demo, #transformbox-css-generator-demo{
+    width: 400px;
+    height: 250px;
+    margin: 50px auto;
+    overflow: visible;    
+    border: 0px;
+}
+
 .panel-body{
     padding: 7px;
 }
