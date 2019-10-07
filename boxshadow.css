@@ -163,7 +163,7 @@
 }
 .option_label{
     float: right;
-    color: #158cba;
+    color: #eb4034;
     font-weight: bold;
 }
 .option_label.inputValue{
@@ -186,7 +186,7 @@ ul.nav li.nav_active{
 }
 
 #css-generator-list .generator{
-    background: #158cba;
+    background: #eb4034;
     text-align: center;
     vertical-align: center;
     color: white;
@@ -269,7 +269,7 @@ ul.nav li.nav_active{
 /*.rs-tooltip.edit, .rs-tooltip .rs-input{
     font-weight: bold;
     color:rgb(255, 101, 80);
-    background: #158cba;
+    background: #eb4034;
     border-radius: 50%;
 }*/
 .percentage_stoppage{
