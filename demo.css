@@ -55,6 +55,14 @@
     margin-right: auto;
     text-align: center;
 }
+#box-css-generator-demo,#borderbox-css-generator-demo, #transformbox-css-generator-demo{
+    background: #158cba;
+    width: 400px;
+    height: 250px;
+    margin: 50px auto;
+    overflow: visible;    
+    border: 0px;
+}
 #borderbox-css-generator-demo, #transformbox-css-generator-demo{
     width: 300px;
     height: 300px;
@@ -155,7 +163,7 @@
 }
 .option_label{
     float: right;
-    color: #ba071c;
+    color: #158cba;
     font-weight: bold;
 }
 .option_label.inputValue{
