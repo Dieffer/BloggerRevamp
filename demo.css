@@ -37,14 +37,6 @@
     padding-right: 0px;
 }
 
-#box-css-generator-demo,#borderbox-css-generator-demo, #transformbox-css-generator-demo{
-    width: 400px;
-    height: 250px;
-    margin: 50px auto;
-    overflow: visible;    
-    border: 0px;
-}
-
 .panel-body{
     padding: 7px;
 }
@@ -63,7 +55,14 @@
     margin-right: auto;
     text-align: center;
 }
-
+#box-css-generator-demo,#borderbox-css-generator-demo, #transformbox-css-generator-demo{
+    background: #158cba;
+    width: 400px;
+    height: 250px;
+    margin: 50px auto;
+    overflow: visible;    
+    border: 0px;
+}
 #borderbox-css-generator-demo, #transformbox-css-generator-demo{
     width: 300px;
     height: 300px;
@@ -164,7 +163,7 @@
 }
 .option_label{
     float: right;
-    color: #ba071c;
+    color: #158cba;
     font-weight: bold;
 }
 .option_label.inputValue{
@@ -187,7 +186,7 @@ ul.nav li.nav_active{
 }
 
 #css-generator-list .generator{
-    background: #ba071c;
+    background: #158cba;
     text-align: center;
     vertical-align: center;
     color: white;
@@ -246,6 +245,7 @@ ul.nav li.nav_active{
     content: " ";
     position: absolute;
     height: 12px;
+    width: 12px;
     background: black;
     right: -6px;
     bottom: -6px;
@@ -269,7 +269,7 @@ ul.nav li.nav_active{
 /*.rs-tooltip.edit, .rs-tooltip .rs-input{
     font-weight: bold;
     color:rgb(255, 101, 80);
-    background: #ba071c;
+    background: #158cba;
     border-radius: 50%;
 }*/
 .percentage_stoppage{
