@@ -55,14 +55,7 @@
     margin-right: auto;
     text-align: center;
 }
-#box-css-generator-demo,#borderbox-css-generator-demo, #transformbox-css-generator-demo{
-    background: #eb4034;
-    width: 400px;
-    height: 250px;
-    margin: 50px auto;
-    overflow: visible;    
-    border: 0px;
-}
+
 #borderbox-css-generator-demo, #transformbox-css-generator-demo{
     width: 300px;
     height: 300px;
